@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [To Do List App](https://github.com/studiosnabeel/todolist)
 
-- 🌱 I’m currently learning **APIS**
+- 🌱 I’m currently learning **APIs**
 
 - 👯 I’m looking to collaborate on [Book List App](https://github.com/studiosnabeel/codeeasy)
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/studiosnabeel](https://github.com/studiosnabeel)
 
-- 💬 Ask me about **Javascript, React**
+- 💬 Ask me about **JavaScript, React**
 
 - 📫 How to reach me **studiosnabeel@gmail.com**
 
