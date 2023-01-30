@@ -5,21 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=studiosnabeel" alt="studiosnabeel" /></a> </p>
 
-- 🔭 I’m currently working on [To Do List App](https://github.com/studiosnabeel/todolist)
+- 🔭 I’m currently working on [VET CLINIC Database](https://github.com/studiosnabeel/vet-clinic)
 
-- 🌱 I’m currently learning **APIs**
+- 🌱 I’m currently learning **SQL & Ruby**
 
-- 👯 I’m looking to collaborate on [Book List App](https://github.com/studiosnabeel/codeeasy)
+- 👯 I’m looking to collaborate on [E-commerce App](https://github.com/studiosnabeel/e-commerce)
 
 - 🤝 I’m looking for help with [Single Page Application](https://github.com/studiosnabeel/awesomebooks-with-es6)
 
 - 👨‍💻 All of my projects are available at [https://github.com/studiosnabeel](https://github.com/studiosnabeel)
 
-- 💬 Ask me about **JavaScript, React**
+- 💬 Ask me about **JavaScript, React, Redux, Tailwind CSS, Postgres**
 
 - 📫 How to reach me **studiosnabeel@gmail.com**
 
-- ⚡ Fun fact **I am a part time Singer, Music producer.**
+- ⚡ Fun fact **I am a part time Singer, Youtube Content Creator.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
