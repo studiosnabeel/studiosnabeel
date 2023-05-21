@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [E-commerce App](https://github.com/studiosnabeel/e-commerce)
 
-- 🤝 I’m looking for help with [Single Page Application](https://github.com/studiosnabeel/awesomebooks-with-es6)
+- 🤝 I’m looking for help with [Adding Rails backend to my swiftSell app](https://github.com/studiosnabeel/SwiftSell)
 
 - 👨‍💻 All of my projects are available at [https://github.com/studiosnabeel](https://github.com/studiosnabeel)
 
