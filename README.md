@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=studiosnabeel" alt="studiosnabeel" /></a> </p>
 
-- 🔭 I’m currently working on [SwiftSell - an E-commerce Website](https://github.com/studiosnabeel/SwiftSell)
+- 🔭 I’m currently working on [ViewFlix - a Movie Website](https://github.com/studiosnabeel/ViewFlix)
 
-- 🌱 I’m currently learning **Firebase & DSA**
+- 🌱 I’m currently learning **Nodejs, Expressjs and MongoDB**
 
 - 👯 I’m looking to collaborate on [E-commerce App](https://github.com/studiosnabeel/e-commerce)
 
