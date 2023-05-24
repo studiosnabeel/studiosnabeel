@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [ViewFlix - a Movie Website](https://github.com/studiosnabeel/ViewFlix)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Typescript and Sass.**
 
 - 👯 I’m looking to collaborate on [E-commerce App](https://github.com/studiosnabeel/e-commerce)
 
