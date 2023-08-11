@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=studiosnabeel" alt="studiosnabeel" /></a> </p>
 
-- 🔭 I’m currently working on [ViewFlix - a Movie Website](https://github.com/studiosnabeel/ViewFlix)
+- 🔭 I’m currently working on [NabeelSocial-A Social media app created with MERNG Stack]([https://github.com/studiosnabeel/ViewFlix](https://github.com/studiosnabeel/socialmedia-app-merng))
 
 - 🌱 I’m currently learning **Typescript and Sass.**
 
