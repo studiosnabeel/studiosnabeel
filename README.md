@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [NabeelSocial-A Social media app created with MERNG Stack](https://github.com/studiosnabeel/socialmedia-app-merng)
 
-- 🌱 I’m currently learning **Typescript and Sass.**
+- 🌱 I’m currently learning **GraphQl and TypeScript**
 
 - 👯 I’m looking to collaborate on [E-commerce App](https://github.com/studiosnabeel/e-commerce)
 
